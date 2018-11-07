@@ -1,2 +1,2 @@
 # MVC_ImportExcel
-Demonstrating Oracle connection
+Demonstrating MVC for import and view excel file
